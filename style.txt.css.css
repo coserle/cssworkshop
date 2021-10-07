@@ -1,0 +1,24 @@
+ body {
+
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+margin: 0px;
+padding: 0px;
+}
+.navbar {
+display: block;
+position: fixed;
+width: 100%;
+height: 80px;
+background-color: #00000042
+}
+.navbar ul {
+    list-style: none;
+}
+.navbar li {
+display: inline;
+padding: 5%;
+}
+.navbar li a {
+text-decoration:none;
+color: white;
+}
